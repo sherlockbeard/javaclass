@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e355f374-8ee0-4b58-aef2-ec1d64afa88b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/personal/binarystring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personal/MaximumAdvertisementRevenue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quest_7/listing_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,11 +72,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/personal/binarystring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            <state relative-caret-position="310">
+              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/personal/MaximumAdvertisementRevenue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/quest_7/listing_7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -103,8 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/quest_2/quest23.java" />
-        <option value="$PROJECT_DIR$/src/quest_2/quest24.java" />
         <option value="$PROJECT_DIR$/src/quest_2/quest25.java" />
         <option value="$PROJECT_DIR$/src/quest_2/quest26.java" />
         <option value="$PROJECT_DIR$/src/quest_2/quest27.java" />
@@ -154,6 +174,8 @@
         <option value="$PROJECT_DIR$/src/quest_5/quest546.java" />
         <option value="$PROJECT_DIR$/src/quest_5/quest550.java" />
         <option value="$PROJECT_DIR$/src/personal/binarystring.java" />
+        <option value="$PROJECT_DIR$/src/personal/MaximumAdvertisementRevenue.java" />
+        <option value="$PROJECT_DIR$/src/quest_7/listing_7.java" />
       </list>
     </option>
   </component>
@@ -170,8 +192,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,7 +210,7 @@
               <item name="proj" type="b2602c69:ProjectViewProjectNode" />
               <item name="proj" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="quest_7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,7 +240,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.binarystring">
+  <component name="RunManager" selected="Application.listing_7">
+    <configuration name="MaximumAdvertisementRevenue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="personal.MaximumAdvertisementRevenue" />
+      <module name="proj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="personal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="binarystring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="personal.binarystring" />
       <module name="proj" />
@@ -232,12 +267,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quest39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quest_3.quest39" />
+    <configuration name="listing_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quest_7.listing_7" />
       <module name="proj" />
+      <option name="PROGRAM_PARAMETERS" value="9 + 9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quest_3.*" />
+          <option name="PATTERN" value="quest_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,19 +283,6 @@
     </configuration>
     <configuration name="quest546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="quest_5.quest546" />
-      <module name="proj" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="quest_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="quest548" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quest_5.quest548" />
       <module name="proj" />
       <extension name="coverage">
         <pattern>
@@ -284,13 +307,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.binarystring" />
+      <item itemvalue="Application.listing_7" />
+      <item itemvalue="Application.MaximumAdvertisementRevenue" />
+      <item itemvalue="Application.quest546" />
+      <item itemvalue="Application.quest550" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.listing_7" />
+        <item itemvalue="Application.MaximumAdvertisementRevenue" />
         <item itemvalue="Application.binarystring" />
         <item itemvalue="Application.quest550" />
         <item itemvalue="Application.quest546" />
-        <item itemvalue="Application.quest39" />
-        <item itemvalue="Application.quest548" />
       </list>
     </recent_temporary>
   </component>
@@ -314,16 +344,18 @@
       <workItem from="1565772570652" duration="601000" />
       <workItem from="1565950634230" duration="14070000" />
       <workItem from="1566119895835" duration="4946000" />
+      <workItem from="1566152977101" duration="1454000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49919000" />
+    <option name="totallyTimeSpent" value="51373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="749" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05775076" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28267476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -332,7 +364,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2904762" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2904762" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,20 +392,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/quest_2/quest29.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/quest_2/quest210.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/quest_2/quest212.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -758,8 +776,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/personal/binarystring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        <state relative-caret-position="310">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/personal/MaximumAdvertisementRevenue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quest_7/listing_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
