@@ -2,154 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cc7e540-fe07-45f2-b3fc-815929fff1ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quest_8/quest82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quest_8/quest835.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/META-INF/proj.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/Fibonacci_Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/GreatestCommonDivisor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/LastDigitofFibonacciNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/LeastCommonNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/MaximumAdvertisementRevenue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/MaximumPairwiseProduct1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/MaximumValueoftheLoot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/MoneyChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/binarystring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/personal/sumof2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest110.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest111.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest112.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest113.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest13.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest14.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest15.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest18.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_1/quest19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest210.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest211.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest212.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest213.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest23.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest25.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_2/quest29.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/qiest38.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest31.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest311.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest313.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest315.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest317.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest318.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest319.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest321.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest35.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest36.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_3/quest39.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_4/quest413.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_4/quest418.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_4/quest42.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_4/quest421.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_4/quest423.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_4/quest47.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_4/quest48.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_5/quest533.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_5/quest534.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_5/quest535.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_5/quest546.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_5/quest547.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_5/quest548.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_5/quest549.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_5/quest550.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/out/production/proj/quest_7/listing_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/proj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaclass.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/Fibonacci_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/Fibonacci_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/GreatestCommonDivisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/LastDigitofFibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/LastDigitofFibonacciNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/LeastCommonNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/LeastCommonNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/MaximumAdvertisementRevenue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/MaximumAdvertisementRevenue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/MaximumPairwiseProduct1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/MaximumPairwiseProduct1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/MaximumValueoftheLoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/MaximumValueoftheLoot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/MoneyChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/MoneyChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/binarystring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/binarystring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/personal/sumof2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/personal/sumof2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest112.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest113.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_1/quest19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_1/quest19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest210.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest210.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest211.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest211.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest212.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest212.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest213.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_2/quest29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_2/quest29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/qiest38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/qiest38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest311.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest311.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest313.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest313.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest315.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest315.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest317.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest317.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest318.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest318.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest319.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest319.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest321.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest321.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_3/quest39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_3/quest39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_4/quest413.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_4/quest413.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_4/quest418.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_4/quest418.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_4/quest42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_4/quest42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_4/quest421.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_4/quest421.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_4/quest423.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_4/quest423.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_4/quest47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_4/quest47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_4/quest48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_4/quest48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_5/quest533.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_5/quest533.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_5/quest534.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_5/quest534.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_5/quest535.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_5/quest535.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_5/quest546.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_5/quest546.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_5/quest547.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_5/quest547.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_5/quest548.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_5/quest548.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_5/quest549.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_5/quest549.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_5/quest550.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_5/quest550.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_7/listing_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_7/listing_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj/src/quest_8/quest81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/quest_8/quest81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quest_9/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quest_9/quest_97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -186,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.quest_91">
+  <component name="RunManager" selected="Application.quest_97">
     <configuration name="quest81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="quest_8.quest81" />
       <module name="javaclass" />
@@ -213,8 +69,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="quest_97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quest_9.quest_97" />
+      <module name="javaclass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quest_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.quest_97" />
         <item itemvalue="Application.quest_91" />
         <item itemvalue="Application.quest81" />
       </list>
@@ -231,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566380428499</updated>
       <workItem from="1566380429890" duration="810000" />
+      <workItem from="1566382628383" duration="256000" />
     </task>
     <servers />
   </component>
@@ -242,7 +113,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
