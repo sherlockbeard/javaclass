@@ -1,4 +1,8 @@
 package quest_9;
+<<<<<<< HEAD
+=======
+
+>>>>>>> ga
 import java.util.Date;
 
 public class Account {
@@ -6,7 +10,11 @@ public class Account {
     private double balance;
     private static double annualInterestRate;
     private Date dateCreated;
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> ga
     Account() {
         id = 0;
         balance = 0;
