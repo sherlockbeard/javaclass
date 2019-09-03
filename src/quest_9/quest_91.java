@@ -1,15 +1,15 @@
 package quest_9;
 
 public class quest_91 {
-    /** Main method */
+
     public static void main(String[] args) {
-        // Create a Rectangle with width 4 and height 40
+        
         Rectangle rectangle1 = new Rectangle(4, 40);
 
-        // Create a Rectangle with width 3.5 and height 35.9
+        
         Rectangle rectangle2 = new Rectangle(3.5, 35.9);
 
-        // Display the width, height, area, and perimeter of rectangle1
+        
         System.out.println("\n Rectangle 1");
         System.out.println("-------------");
         System.out.println("Width:     " + rectangle1.width);
@@ -17,7 +17,7 @@ public class quest_91 {
         System.out.println("Area:      " + rectangle1.getArea());
         System.out.println("Perimeter: " + rectangle1.getPerimeter());
 
-        // Display the width, height, area, and perimeter of rectangle2
+        
         System.out.println("\n Rectangle 2");
         System.out.println("-------------");
         System.out.println("Width:     " + rectangle2.width);
